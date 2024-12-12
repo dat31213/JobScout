@@ -1,0 +1,26 @@
+[
+  {
+    "question": "JobScout là gì?",
+    "answer": "JobScout là ứng dụng cổng thông tin việc làm cho phép các công ty đăng danh sách việc làm và người dùng tìm kiếm và nộp đơn xin việc. Nó cung cấp các tính năng cho cả người tìm việc và nhà tuyển dụng, với giao diện thân thiện với người dùng và xác thực an toàn."
+  },
+  {
+    "question": "Làm thế nào để đăng một công việc?",
+    "answer": "Với tư cách là nhà tuyển dụng, bạn có thể đăng việc làm bằng cách điều hướng đến phần 'Đăng việc làm' sau khi đăng nhập. Điền thông tin chi tiết về công việc và gửi biểu mẫu để tạo danh sách việc làm mới."
+  },
+  {
+    "question": "Tôi có thể tìm kiếm việc làm bằng cách nào?",
+    "answer": "Người tìm việc có thể tìm kiếm việc làm theo từ khóa, vị trí, danh mục và các bộ lọc khác bằng thanh tìm kiếm trên trang chủ hoặc trang tìm kiếm việc làm chuyên dụng."
+  },
+  {
+    "question": "Làm thế nào để tôi nộp đơn xin việc?",
+    "answer": "Để nộp đơn xin việc, hãy nhấp vào danh sách công việc và làm theo hướng dẫn nộp đơn được cung cấp. Bạn có thể cần phải tải lên sơ yếu lý lịch của mình và cung cấp thêm thông tin."
+  },
+  {
+    "question": "Tôi có thể lưu việc làm để ứng tuyển sau không?",
+    "answer": "Có, bạn có thể lưu danh sách việc làm bằng cách nhấp vào nút 'Lưu việc làm' trên danh sách việc làm. Công việc đã lưu có thể được truy cập từ hồ sơ của bạn trong phần 'Công việc đã lưu'."
+  },
+  {
+    "question": "Làm cách nào để theo dõi đơn xin việc của tôi?",
+    "answer": "Người tìm việc có thể theo dõi trạng thái đơn đăng ký của họ từ phần 'Ứng tuyển' trong hồ sơ của họ. Phần này cung cấp thông tin cập nhật về tiến trình của từng ứng dụng."
+  }   
+]
